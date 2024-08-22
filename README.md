@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Abner Santos 👋
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-santos-958b69320/)
+<br>
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whosbner?igsh=cnQ4MXU2aHk3Zjh5)
 
 ![Abner Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=bnersantos&show_icons=true&theme=tokyonight)
